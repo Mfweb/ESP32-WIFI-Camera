@@ -5,4 +5,4 @@ https://mfweb.top/?p=796
 
 目前只做到了320*240@8FPS
 
-上位机用C#
+上位机用C#、工程不包含esp-idf

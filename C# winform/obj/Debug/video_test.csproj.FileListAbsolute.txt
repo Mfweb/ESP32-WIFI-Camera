@@ -1,0 +1,10 @@
+C:\bz_projects\图传测试\video_test\bin\Debug\video_test.exe.config
+C:\bz_projects\图传测试\video_test\bin\Debug\video_test.exe
+C:\bz_projects\图传测试\video_test\bin\Debug\video_test.pdb
+C:\bz_projects\图传测试\video_test\obj\Debug\video_test.csprojResolveAssemblyReference.cache
+C:\bz_projects\图传测试\video_test\obj\Debug\video_test.Form1.resources
+C:\bz_projects\图传测试\video_test\obj\Debug\video_test.Properties.Resources.resources
+C:\bz_projects\图传测试\video_test\obj\Debug\video_test.csproj.GenerateResource.Cache
+C:\bz_projects\图传测试\video_test\obj\Debug\video_test.csproj.CoreCompileInputs.cache
+C:\bz_projects\图传测试\video_test\obj\Debug\video_test.exe
+C:\bz_projects\图传测试\video_test\obj\Debug\video_test.pdb

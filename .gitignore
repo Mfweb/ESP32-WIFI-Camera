@@ -36,7 +36,7 @@
 *.x86_64
 *.hex
 
-# Debug files
+# Debug file
 *.dSYM/
 *.su
 *.idb
@@ -50,3 +50,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+build/
